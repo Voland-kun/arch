@@ -1,9 +1,8 @@
 import zope
-from IGameItem import IGameItem
+from hw02.Fabric.IGameItem import IGameItem
 
 
 @zope.interface.implementer(IGameItem)
-class LootReward:
+class GarbageReward:
     def open(self):
         print("Открыли сундук с мусором")
-

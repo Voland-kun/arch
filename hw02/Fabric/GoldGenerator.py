@@ -1,5 +1,5 @@
-from ItemFabric import ItemFabric
-from GoldReward import GoldItem
+from hw02.Fabric.GoldReward import GoldItem
+from hw02.Fabric.ItemFabric import ItemFabric
 
 
 class GoldGenerator(ItemFabric):

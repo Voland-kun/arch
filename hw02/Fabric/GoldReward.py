@@ -1,5 +1,5 @@
 import zope.interface
-from IGameItem import IGameItem
+from hw02.Fabric.IGameItem import IGameItem
 
 
 @zope.interface.implementer(IGameItem)

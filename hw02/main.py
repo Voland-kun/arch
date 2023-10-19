@@ -1,6 +1,6 @@
-from hw02.Fabric.GarbageGenerator import GarbageGenerator
-from hw02.Fabric.GemGenerator import GemGenerator
-from hw02.Fabric.GoldGenerator import GoldGenerator
+from Fabric.GarbageGenerator import GarbageGenerator
+from Fabric.GemGenerator import GemGenerator
+from Fabric.GoldGenerator import GoldGenerator
 import random
 
 
